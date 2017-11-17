@@ -1,0 +1,6 @@
+D:\Staszek\C#\zajecia\WtepDoKlas\WtepDoKlas\bin\Debug\WtepDoKlas.exe.config
+D:\Staszek\C#\zajecia\WtepDoKlas\WtepDoKlas\bin\Debug\WtepDoKlas.exe
+D:\Staszek\C#\zajecia\WtepDoKlas\WtepDoKlas\bin\Debug\WtepDoKlas.pdb
+D:\Staszek\C#\zajecia\WtepDoKlas\WtepDoKlas\obj\Debug\WtepDoKlas.csprojResolveAssemblyReference.cache
+D:\Staszek\C#\zajecia\WtepDoKlas\WtepDoKlas\obj\Debug\WtepDoKlas.exe
+D:\Staszek\C#\zajecia\WtepDoKlas\WtepDoKlas\obj\Debug\WtepDoKlas.pdb
